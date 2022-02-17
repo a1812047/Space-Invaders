@@ -53,10 +53,10 @@ enemyY = []
 enemyXchange = []
 enemyYchange = []
 total_enemies = 5
-enemyImg.append(pygame.image.load("notAlien.png"))
-enemyImg.append(pygame.image.load("notAlien.png"))
-enemyImg.append(pygame.image.load("notAlien.png"))
-enemyImg.append(pygame.image.load("notAlien.png"))
+enemyImg.append(pygame.image.load("alien1.png"))
+enemyImg.append(pygame.image.load("alien2.png"))
+enemyImg.append(pygame.image.load("alien3.png"))
+enemyImg.append(pygame.image.load("alien4.png"))
 enemyImg.append(pygame.image.load("notAlien.png"))
 
 speed = [-7, 7]
